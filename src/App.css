@@ -1,0 +1,15 @@
+/* nav bar */
+
+.navbar-nav a{
+  font-size:18px ;
+}
+
+.footer a{
+  color: #fff;
+  text-decoration: none !important ;
+}
+
+.footer a:hover{
+  color: gray;
+ 
+}
